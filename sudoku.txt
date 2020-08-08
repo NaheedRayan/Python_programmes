@@ -1,4 +1,4 @@
-
+Hello
 mat = list() 
 
 
@@ -15,7 +15,7 @@ mat =  [[5,3,0,0,7,0,0,0,0],
 
 
 
-# a function for testing weather it is possible to input a value n
+# a  function for testing weather it is possible to input a value n
 def possible(x,y,n):
     # for checking the coloumn
     for i in range(9):
