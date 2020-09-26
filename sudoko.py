@@ -57,6 +57,7 @@ def solve():
                         
                 return
     printing_the_mat()
+    input("want more?")
 
 
 # for printing the matrix
